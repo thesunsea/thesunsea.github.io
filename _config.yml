@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Haiyang Sun"
   pronouns         : # example: "she/her"  
-  bio              : # "Short biography for the left-hand sidebar"
+  bio              : "Short biography for the left-hand sidebar"
   location         : "China"
-  employer         : "China University of Petroleum (East China)"
+  employer         : "China University of Petroleum"
   uri              : # URL
   email            : "thesunsea@s.upc.edu.cn" 
 
